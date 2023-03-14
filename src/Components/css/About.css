@@ -1,0 +1,46 @@
+.about-body {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    /* background-color: #2196F3; */
+    padding: 10px;
+}
+
+
+.about-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    /* border: 1px solid rgba(0, 0, 0, 0.8); */
+    padding: 20px;
+    
+}
+
+.about-wdh-2 {
+    margin: 20px;
+    width: 250px;
+}
+
+.about-wdh-4 {
+    margin: 20px;
+    width: 500px;
+}
+
+.about-wdh-6 {
+    margin: 20px;
+    width: 700px;
+}
+
+.about-title {
+    line-height: 2;
+}
+
+.about-img {
+    width: 400px;
+    margin: 20px 100px 20px 120px;
+    /* position: relative; */
+    border-radius: 50%;
+}
+
+.btn-about {
+    margin-top: 40px;
+}
+
+
