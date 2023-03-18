@@ -22,7 +22,7 @@ const Skills = () => {
                     />  
 
                     <SkillsItems 
-                        img = "./assets/img/pemograman/javascript.png"
+                        img = "./assets/img/pemograman/Javascript.png"
                         name = "Javascript"
                     />  
 
