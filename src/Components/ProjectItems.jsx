@@ -2,7 +2,7 @@ const ProjectItems = (props) => {
     return  (
         <>
             <div className="project-img">
-                <img src={props.img} alt="Curts" />
+                <img src={props.img} alt />
                 <p className="project-title">{props.title}</p>
                 <p className="project-subtitle">
                     {props.text}
