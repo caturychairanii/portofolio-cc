@@ -39,6 +39,11 @@ const Skills = () => {
                         img = "./assets/img/pemograman/Laravel.png"
                         name = "Laravel"
                     />  
+
+                    <SkillsItems 
+                        img = "./assets/img/pemograman/codeigniter.png"
+                        name = "Codeigniter"
+                    />  
                     <SkillsItems 
                         img = "./assets/img/pemograman/reactjs.webp"
                         name = "React JS"
