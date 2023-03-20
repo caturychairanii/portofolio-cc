@@ -28,7 +28,7 @@ const Skills = () => {
 
                     <SkillsItems 
                         img = "./assets/img/pemograman/php.svg"
-                        name = "Javascript"
+                        name = "PHP"
                     />  
 
                 </div>
